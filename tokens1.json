@@ -1,0 +1,32 @@
+{
+  "name": "cathy3",
+  "logoURI": "https://justswap.org/static/media/logo.273db171.svg",
+  "keywords": ["audited", "verified", "special tokens"],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "compound": {
+      "name": "Compound Finance",
+      "description": "Tokens that earn interest on compound.finance"
+    }
+  },
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TWrZRHY9aKQZcyjpovdH6qeCEyYZrRQDZt",
+      "symbol": "USDC1",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://coin.top/production/logo/SUNLogo.png",
+      "tags": ["stablecoin"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}
