@@ -23,10 +23,28 @@
       "logoURI": "https://coin.top/production/logo/SUNLogo.png",
       "tags": ["stablecoin"]
     },
-        {
+    {
       "chainId": 1,
       "address": "TWrZRHY9aKQZcyjpovdH6qeCEyYZrRQDZt",
       "symbol": "USDC2",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://coin.top/production/logo/SUNLogo.png",
+      "tags": ["stablecoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "TWrZRHY9aKQZcyjpovdH6qeCEyYZrRQDZt",
+      "symbol": "ASDC2",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://coin.top/production/logo/SUNLogo.png",
+      "tags": ["stablecoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "TWrZRHY9aKQZcyjpovdH6qeCEyYZrRQDZt",
+      "symbol": "bSDC2",
       "name": "USD Coin",
       "decimals": 6,
       "logoURI": "https://coin.top/production/logo/SUNLogo.png",
