@@ -1,5 +1,5 @@
 {
-    "name": "test-json-1",
+    "name": "test-json-2",
     "logoURI": "https://coin.top/production/logo/TGbhcodQ1jRWB3ZywmfwsRTh4rwbiL2mzh.png",
     "timestamp": "2020-11-23T01:40:34.305Z",
     "tokens": [
@@ -7,7 +7,7 @@
             "chainId": 1,
             "address": "TG9XJ75ZWcUw69W8xViEJZQ365fRupGkFP",
             "name": "BitCoin",
-            "symbol": "BTC",
+            "symbol": "BTCdddd",
             "decimals": 8,
             "logoURI": "https://coin.top/production/upload/logo/TQP1YvdR7C3p64ntC4wt21zjLhJjJaPYpo.png?t=1601169244264"
         },
@@ -21,8 +21,8 @@
         }
     ],
     "version": {
-        "major": 1,
-        "minor": 1,
-        "patch": 1
+        "major": 2,
+        "minor": 2,
+        "patch": 3
     }
 }
