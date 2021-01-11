@@ -1,7 +1,7 @@
 {
-    "name": "test-json-3",
+    "name": "tokens3",
     "logoURI": "https://nile.tronscan.org/upload/logo/1000193.png",
-    "timestamp": "2020-11-23T01:40:34.305Z",
+    "timestamp": "1610355945066",
     "tokens": [
         {
             "chainId": 1,

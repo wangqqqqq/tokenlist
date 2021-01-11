@@ -1,5 +1,5 @@
 {
-    "name": "test-json-3",
+    "name": "tokens7",
     "logoURI": "https://nile.tronscan.org/upload/logo/1000193.png",
     "timestamp": "2020-11-23T01:40:34.305Z",
     "tokens": [
@@ -7,7 +7,7 @@
             "chainId": 1,
             "address": "TLELxLrgD3dq6kqS4x6dEGJ7xNFMbzK95U",
             "name": "BitCoin",
-            "symbol": "WBTT",
+            "symbol": "WBT  T",
             "decimals": 8,
             "logoURI": "https://coin.top/production/upload/logo/TQP1YvdR7C3p64ntC4wt21zjLhJjJaPYpo.png?t=1601169244264"
         },
@@ -15,7 +15,7 @@
             "chainId": 2,
             "address": "TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
             "name": "USDJ",
-            "symbol": "USDJ",
+            "symbol": "USdd--fffDJ",
             "decimals": 18,
             "logoURI": "https://coin.top/production/upload/logo/TWsN5dHBCeG2hbRTC17YXsV9oDoN4tvmQW.png?t=1608857256223"
         }
