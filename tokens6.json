@@ -1,7 +1,7 @@
 {
     "name": "tokens6",
     "logoURI": "https://nile.tronscan.org/upload/logo/1000193.png",
-    "timestamp": "--ffdjeiis",
+    "timestamp": "1610355995066",
     "tokens": [
         {
             "chainId": 1,
@@ -23,6 +23,6 @@
     "version": {
         "major": 4,
         "minor": 2,
-        "patch": 4
+        "patch": 5
     }
 }
