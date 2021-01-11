@@ -5,7 +5,7 @@
     "tokens": [
         {
             "chainId": 1,
-            "address": "TG9XJ75ZWcUw69W8xViEJZQ365fRupGkFP",
+            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
             "name": "BitCoin",
             "symbol": "BTC",
             "decimals": 8,
@@ -21,7 +21,7 @@
         }
     ],
     "version": {
-        "major": 2,
+        "major": 4,
         "minor": 2,
         "patch": 2
     }
