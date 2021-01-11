@@ -5,9 +5,9 @@
     "tokens": [
         {
             "chainId": 1,
-            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "address": "TLELxLrgD3dq6kqS4x6dEGJ7xNFMbzK95U",
             "name": "BitCoin",
-            "symbol": "BTC",
+            "symbol": "WBTT",
             "decimals": 8,
             "logoURI": "https://coin.top/production/upload/logo/TQP1YvdR7C3p64ntC4wt21zjLhJjJaPYpo.png?t=1601169244264"
         },
