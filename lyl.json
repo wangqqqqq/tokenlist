@@ -1,7 +1,7 @@
 {
     "name":"test1",
     "logoURI":"https://coin.top/production/logo/usdj.png",
-    "timestamp":1610520952000,
+    "timestamp":1610520952450,
     "tokens":[
         {
             "chainId":1,
