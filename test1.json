@@ -18,7 +18,16 @@
             "symbol":"USDJ",
             "decimals":18,
             "logoURI":"https://coin.top/production/logo/usdj.png"
+        },
+        {
+            "chainId":1,
+            "address":"TQW8xP8SD9JrcuNoofeJThkJbRSASYAXEa",
+            "name":"HT",
+            "symbol":"HT",
+            "decimals":18,
+            "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         }
+        
     ],
     "version":{
         "major":1,
