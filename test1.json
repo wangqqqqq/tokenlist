@@ -1,0 +1,27 @@
+{
+	"name": "TokenListExample", #List name
+	"logoURI": "https://coin.top/production/logo/usdj.png", #List logo uri
+	"timestamp": 1610520952000, #Update time in millisecond
+	"tokens": [{
+       	"chainId": 1, # ChainId, which is currently 1
+       	"address": "TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH", #Token address
+       	"name": "TronixTest", #Token name
+       	"symbol": "TronixTest", #Token symbol
+       	"decimals": 6, #Token decimals
+       	"logoURI": "https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png" #Token logo uri
+   	},
+		{
+       	"chainId": 1,
+       	"address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+       	"name": "USDJ",
+       	"symbol": "USDJ",
+       	"decimals": 18,
+       	"logoURI": "https://coin.top/production/logo/usdj.png"
+   	}
+	],
+	"version": { #Version info
+   	"major": 1, #Major version
+   	"minor": 0, #Minor version
+   	"patch": 0  #Patch version
+	}
+}
