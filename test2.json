@@ -8,8 +8,8 @@
             "address":"TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
             "name":"TronixTest",
             "symbol":"TronixTest",
-            "decimals":6,
-            "logoURI":"J79a8Be3S4RFf4pFkGE8"
+            "decimals":256,
+            "logoURI":"https://coin.top/production/logo/usdj.png"
         }
     ],
     "version":{
