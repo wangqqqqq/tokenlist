@@ -26,6 +26,14 @@
             "symbol":"token6",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
+        },
+        {
+            "chainId":1,
+            "address":"TAe8odCNwjhydp4MmztuBby2VVj2s7xUqA",
+            "name":"token00",
+            "symbol":"token00",
+            "decimals":0,
+            "logoURI":"https://coin.top/production/logo/usdj.png"
         }
     ],
     "version":{
