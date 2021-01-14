@@ -810,11 +810,19 @@
             "symbol":"USDJ",
             "decimals":18,
             "logoURI":"https://coin.top/production/logo/usdj.png"
+        },
+        {
+            "chainId":5,
+            "address":"TUGHsFWFHFi47kxxvaxFPNwWKbTFLRtchH",
+            "name":"QQ",
+            "symbol":"QQ",
+            "decimals":8,
+            "logoURI":"http://nile.tronscan.org/upload/logo/TUGHsFWFHFi47kxxvaxFPNwWKbTFLRtchH.jpeg?t=1591172901412"
         }
     ],
     "version":{
         "major":1,
         "minor":0,
-        "patch":3
+        "patch":4
     }
 }
