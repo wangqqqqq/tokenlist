@@ -24,13 +24,13 @@
             "address":"TJiBRdQfsjCLdEJcib3aUtGB4nNfHSMuoC",
             "name":"token6",
             "symbol":"token6",
-            "decimals":256,
+            "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
         }
     ],
     "version":{
         "major":1,
         "minor":0,
-        "patch":2
+        "patch":3
     }
 }
