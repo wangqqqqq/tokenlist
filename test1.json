@@ -4,7 +4,7 @@
     "timestamp":1610520952000,
     "tokens":[
         {
-            "chainId":1,
+            "chainId":2,
             "address":"TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
             "name":"TronixTest",
             "symbol":"TronixTest",
@@ -18,6 +18,14 @@
             "symbol":"USDJ",
             "decimals":18,
             "logoURI":"https://coin.top/production/logo/usdj.png"
+        },
+        {
+            "chainId":1,
+            "address":"TQW8xP8SD9JrcuNoofeJThkJbRSASYAXEa",
+            "name":"HT",
+            "symbol":"HT",
+            "decimals":18,
+            "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         },
         {
             "chainId":1,
