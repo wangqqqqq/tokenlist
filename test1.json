@@ -34,6 +34,14 @@
             "symbol":"HT",
             "decimals":18,
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        },
+        {
+            "chainId":5,
+            "address":"TUGHsFWFHFi47kxxvaxFPNwWKbTFLRtchH",
+            "name":"QQ",
+            "symbol":"QQ",
+            "decimals":8,
+            "logoURI":"http://nile.tronscan.org/upload/logo/TUGHsFWFHFi47kxxvaxFPNwWKbTFLRtchH.jpeg?t=1591172901412"
         }
         
     ],
