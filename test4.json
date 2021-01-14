@@ -8,7 +8,7 @@
             "address":"TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
             "name":"TronixTest",
             "symbol":"TronixTest",
-            "decimals":10,
+            "decimals":0,
             "logoURI":"https://coin.top/production/upload/logo/TL6K6iaEkn8kdnJ79a8Be3S4RFf4pFkGE8.png"
         },
         {
@@ -24,7 +24,7 @@
             "address":"TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
             "name":"USDJ",
             "symbol":"USDJ",
-            "decimals":256,
+            "decimals":255,
             "logoURI":"https://coin.top/production/logo/usdj.png"
         }
     ],
