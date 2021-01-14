@@ -21,15 +21,15 @@
         },
         {
             "chainId":1,
-            "address":"TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
-            "name":"USDJ",
-            "symbol":"USDJ",
-            "decimals":255,
+            "address":"TJiBRdQfsjCLdEJcib3aUtGB4nNfHSMuoC",
+            "name":"token6",
+            "symbol":"token6",
+            "decimals":256,
             "logoURI":"https://coin.top/production/logo/usdj.png"
         }
     ],
     "version":{
         "major":1,
         "minor":0,
-        "patch":9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+        "patch":2
 }
