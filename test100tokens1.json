@@ -802,11 +802,19 @@
             "symbol":"USDJ",
             "decimals":18,
             "logoURI":"https://coin.top/production/logo/usdj.png"
+        },
+        {
+            "chainId":1,
+            "address":"TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+            "name":"USDJ",
+            "symbol":"USDJ",
+            "decimals":18,
+            "logoURI":"https://coin.top/production/logo/usdj.png"
         }
     ],
     "version":{
         "major":1,
         "minor":0,
-        "patch":2
+        "patch":3
     }
 }
