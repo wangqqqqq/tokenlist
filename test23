@@ -1,0 +1,20 @@
+{
+    "name":"test3",
+    "logoURI":"https://coin.top/production/logo/usdj.png",
+    "timestamp":1610520952450,
+    "tokens":[
+        {
+            "chainId":10,
+            "address":"TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
+            "name":"TronixTest",
+            "symbol":"TronixTest",
+            "decimals":0,
+            "logoURI":"https://coin.top/production/logo/usdj.png"
+        }
+    ],
+    "version":{
+        "major":9099999999999999999999999999999999999991,
+        "minor":0.12,
+        "patch":1
+    }
+}
