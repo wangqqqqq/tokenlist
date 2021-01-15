@@ -17,10 +17,10 @@
       "name":"USDJ",
       "symbol":"USDJ",
       "decimals":18,
-      "A":1,
       "logoURI":"https://coin.top/production/logo/usdj.png"
     }
   ],
+  "A":1,
   "version":{
     "major":1,
     "minor":0,
