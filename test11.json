@@ -14,16 +14,16 @@
     {
       "chainId":1,
       "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
-      "name":"USDJ",
-      "symbol":"USDJ",
+      "name":"JST",
+      "symbol":"JST",
       "decimals":0,
       "logoURI":"https://coin.top/production/logo/usdj.png"
     },
     {
       "chainId":1,
-      "address":"TPkxfFU1QqLhb7Y659QYWtfovEiioMcEaP",
-      "name":"USDJ",
-      "symbol":"USDJ",
+      "address":"TMcKBpKreFgHAirwo93AfTMQKKApq4BhNf",
+      "name":"LOVEME",
+      "symbol":"LOVEME",
       "decimals":18,
       "logoURI":"https://coin.top/production/logo/usdj.png"
     }
@@ -32,6 +32,6 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":4
+    "patch":5
   }
 }
