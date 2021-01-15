@@ -796,26 +796,18 @@
             "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
-            "chainId":1,
-            "address":"TSqT1sqkxCE7USFhxMTS9RWfjPysFHhoVw",
+            "chainId":12,
+            "address":"TMs8age6LyYAy6KdkEpJK8GYNmkoVv9Wiw",
             "name":"TronToken99",
             "symbol":"TronToken99",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
-        },
-        {
-            "chainId":1,
-            "address":"TQm8S1ZhgNkxnDHFnfihYs3iAT3HRe5CLY",
-            "name":"TronToken100",
-            "symbol":"TronToken100",
-            "decimals":6,
-            "logoURI":"https://coin.top/production/logo/usdj.png"
         }
-        
+
     ],
     "version":{
         "major":1,
         "minor":0,
-        "patch":4
+        "patch":5
     }
 }
