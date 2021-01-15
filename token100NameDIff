@@ -14,7 +14,7 @@
         {
             "chainId":1,
             "address":"TAe8odCNwjhydp4MmztuBby2VVj2s7xUqA",
-            "name":"TronToken1",
+            "name":"tronToken1",
             "symbol":"TronToken1",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
@@ -23,14 +23,14 @@
             "chainId":1,
             "address":"TJiBRdQfsjCLdEJcib3aUtGB4nNfHSMuoC",
             "name":"TronToken2",
-            "symbol":"TronToken2",
+            "symbol":"aronToken2",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
             "chainId":1,
             "address":"TTg2HZ4tcpt3sBaeeK1QRAUXKnMQmDchDM",
-            "name":"TronToken3",
+            "name":"bronToken3",
             "symbol":"TronToken3",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
@@ -46,7 +46,7 @@
         {
             "chainId":1,
             "address":"TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
-            "name":"TronToken5",
+            "name":"dronToken5",
             "symbol":"TronToken5",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
@@ -70,16 +70,16 @@
         {
             "chainId":1,
             "address":"TVigeqYoVFnGMcoTMwAK6AKbVqmKNDHqp7",
-            "name":"TronToken8",
-            "symbol":"TronToken8",
+            "name":"AronToken8",
+            "symbol":"AronToken8",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
             "chainId":1,
             "address":"TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4",
-            "name":"TronToken9",
-            "symbol":"TronToken9",
+            "name":"BronToken9",
+            "symbol":"BronToken9",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
         },
@@ -94,7 +94,7 @@
         {
             "chainId":1,
             "address":"TT1rSoxEwcrsZzAVpJJFU7RUd4gtP1E4Qi",
-            "name":"TronToken11",
+            "name":"MronToken11",
             "symbol":"TronToken11",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
@@ -102,7 +102,7 @@
         {
             "chainId":1,
             "address":"TKtfTAVsQp4Q5poyUK8x96G2dZvS9hurTV",
-            "name":"TronToken12",
+            "name":"nronToken12",
             "symbol":"TronToken12",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
@@ -150,7 +150,7 @@
         {
             "chainId":1,
             "address":"TPRHiVhL4paNXBFuBZBvNBuKV2TtwehhuP",
-            "name":"TronToken18",
+            "name":"8ronToken18",
             "symbol":"TronToken18",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
@@ -158,7 +158,7 @@
         {
             "chainId":1,
             "address":"TDWqXHigy6cruWA9E8V84nFyLPAkGGngmM",
-            "name":"TronToken19",
+            "name":"3ronToken19",
             "symbol":"TronToken19",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
@@ -174,7 +174,7 @@
         {
             "chainId":1,
             "address":"TGwAuPkcEwYp7JfJde5hZEpfW5XYRF5YXW",
-            "name":"TronToken21",
+            "name":"2ronToken21",
             "symbol":"TronToken21",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
@@ -190,7 +190,7 @@
         {
             "chainId":1,
             "address":"TH8UG7sRZDDRwn7xF6o32JvdK3S1qBsYeP",
-            "name":"TronToken23",
+            "name":"*ronToken23",
             "symbol":"TronToken23",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
@@ -198,7 +198,7 @@
         {
             "chainId":1,
             "address":"TRWmdwi9ka232nEYpiYsGARQkoLn6K6CnZ",
-            "name":"TronToken24",
+            "name":"-ronToken24",
             "symbol":"TronToken24",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
@@ -807,6 +807,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":0
+        "patch":2
     }
 }
