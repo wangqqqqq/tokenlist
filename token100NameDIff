@@ -797,7 +797,7 @@
         },
         {
             "chainId":12,
-            "address":"TMs8age6LyYAy6KdkEpJK8GYNmkoVv9Wiw",
+            "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
             "name":"TronToken99",
             "symbol":"TronToken99",
             "decimals":6,
@@ -808,6 +808,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":5
+        "patch":6
     }
 }
