@@ -6,15 +6,23 @@
         {
             "chainId":10,
             "address":"TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
-            "name":"Tronix Test",
+            "name":"TronixTest",
             "symbol":"TronixTest",
-            "decimals":0,
+            "decimals":1,
+            "logoURI":"https://coin.top/production/logo/usdj.png"
+        }，
+        {
+            "chainId":10,
+            "address":"TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
+            "name":"TronixTest",
+            "symbol":"TronixTest",
+            "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
         }
     ],
     "version":{
         "major":1,
         "minor":2,
-        "patch":0
+        "patch":1
     }
 }
