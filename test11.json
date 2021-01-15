@@ -16,7 +16,7 @@
       "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
       "name":"USDJ",
       "symbol":"USDJ",
-      "decimals":18,
+      "decimals":0,
       "logoURI":"https://coin.top/production/logo/usdj.png"
     },
     {
@@ -32,6 +32,6 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":3
+    "patch":4
   }
 }
