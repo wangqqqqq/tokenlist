@@ -13,7 +13,7 @@
     },
     {
       "chainId":1,
-      "address":"TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
+      "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
       "name":"USDJ",
       "symbol":"USDJ",
       "decimals":18,
@@ -23,6 +23,6 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":1
+    "patch":2
   }
 }
