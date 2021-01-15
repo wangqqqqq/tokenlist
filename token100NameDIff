@@ -796,8 +796,8 @@
             "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
-            "chainId":12,
-            "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
+            "chainId":1,
+            "address":"TMs8age6LyYAy6KdkEpJK8GYNmkoVv9Wiw",
             "name":"TronToken99",
             "symbol":"TronToken99",
             "decimals":6,
