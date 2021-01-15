@@ -13,14 +13,13 @@
     },
     {
       "chainId":1,
-      "address":"TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+      "address":"TTJJvoPKGVKnbUBPVTn1Zi8o6k3EfFDXVS",
       "name":"USDJ",
       "symbol":"USDJ",
       "decimals":18,
       "logoURI":"https://coin.top/production/logo/usdj.png"
     }
   ],
-  "A":1,
   "version":{
     "major":1,
     "minor":0,
