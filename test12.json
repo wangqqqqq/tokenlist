@@ -13,9 +13,9 @@
     },
     {
       "chainId":1,
-      "address":"TEoh646E7wMrb1ksBqLkMT7Z6ooRzTMxMH",
-      "name":"USDJ",
-      "symbol":"USDJ",
+      "address":"TPkxfFU1QqLhb7Y659QYWtfovEiioMcEaP",
+      "name":"ETTH",
+      "symbol":"ETTH",
       "decimals":18,
       "logoURI":"https://coin.top/production/logo/usdj.png"
     }
