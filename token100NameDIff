@@ -1,5 +1,5 @@
 {
-    "name":"token100",
+    "name":"token100Diff",
     "logoURI":"https://coin.top/production/logo/usdj.png",
     "timestamp":1610520952450,
     "tokens":[
@@ -802,11 +802,20 @@
             "symbol":"TronToken99",
             "decimals":6,
             "logoURI":"https://coin.top/production/logo/usdj.png"
+        },
+        {
+            "chainId":1,
+            "address":"TQm8S1ZhgNkxnDHFnfihYs3iAT3HRe5CLY",
+            "name":"TronToken100",
+            "symbol":"TronToken100",
+            "decimals":6,
+            "logoURI":"https://coin.top/production/logo/usdj.png"
         }
+        
     ],
     "version":{
         "major":1,
         "minor":0,
-        "patch":3
+        "patch":4
     }
 }
