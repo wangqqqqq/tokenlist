@@ -16,13 +16,21 @@
             "address":"TLBaRhANQoJFTqre9Nf1mjuwNWjCJeYqUL",
             "name":"USDJ",
             "symbol":"USDJ",
-            "decimals":17,
+            "decimals":18,
             "logoURI":"https://coin.top/production/logo/usdj.png"
-        }
+        },
+        {
+            "chainId":1,
+            "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
+            "name":"JST",
+            "symbol":"JST",
+            "decimals":18,
+            "logoURI":"https://coin.top/production/logo/just_icon.png"
+        },
     ],
     "version":{
         "major":1,
         "minor":0,
-        "patch":2
+        "patch":3
     }
 }
