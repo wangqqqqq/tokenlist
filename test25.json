@@ -20,12 +20,14 @@
       "logoURI":"https://coin.top/production/logo/usdj.png"
     },
     {
-      chainId: 1,
-      address: "TMcKBpKreFgHAirwo93AfTMQKKApq4BhNf",
-      name: "LOVEME",
-      symbol: "LOVEME",
-      decimals: 18,
-      logoURI: "https://coin.top/production/logo/usdj.png"
+      
+      "chainId":1,
+      "address":"TMcKBpKreFgHAirwo93AfTMQKKApq4BhNf",
+      "name":"LOVEME",
+      "symbol":"LOVEME",
+      "decimals":18,
+      "logoURI":"https://coin.top/production/logo/usdj.png"
+   
   }
   ],
   "version":{
