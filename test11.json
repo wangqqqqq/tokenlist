@@ -16,7 +16,7 @@
       "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
       "name":"JST",
       "symbol":"JST",
-      "decimals":0,
+      "decimals":8,
       "logoURI":"https://coin.top/production/logo/usdj.png"
     },
     {
@@ -32,6 +32,6 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":5
+    "patch":2
   }
 }
