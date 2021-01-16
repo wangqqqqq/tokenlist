@@ -20,6 +20,14 @@
             "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
+             "chainId":15,
+             "address":"TMcKBpKreFgHAirwo93AfTMQKKApq4BhNf",
+             "name":"LOVEME",
+             "symbol":"LOVEME",
+             "decimals":18,
+             "logoURI":"https://coin.top/production/logo/usdj.png"
+        },
+        {
             "chainId":1,
             "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
             "name":"JST",
@@ -31,6 +39,6 @@
     "version":{
         "major":1,
         "minor":0,
-        "patch":3
+        "patch":4
     }
 }
