@@ -20,7 +20,7 @@
       "logoURI":"https://coin.top/production/logo/usdj.png"
     },
     {
-      "chainId":1,
+      "chainId":5,
       "address":"TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
       "name":"LOVEME",
       "symbol":"LOVEME",
@@ -32,6 +32,6 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":2
+    "patch":4
   }
 }
