@@ -13,9 +13,9 @@
     },
     {
       "chainId":1,
-      "address":"TPkxfFU1QqLhb7Y659QYWtfovEiioMcEaP",
-      "name":"ETTH",
-      "symbol":"ETTH",
+      "address":"TMcKBpKreFgHAirwo93AfTMQKKApq4BhNf",
+      "name":"loveme",
+      "symbol":"loveme",
       "decimals":18,
       "logoURI":"https://coin.top/production/logo/usdj.png"
     }
@@ -23,6 +23,6 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":0
+    "patch":1
   }
 }
