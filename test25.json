@@ -1,5 +1,5 @@
 {
-  "name":"test12",
+  "name":"test25",
   "logoURI":"https://coin.top/production/logo/usdj.png",
   "timestamp":1610520952450,
   "tokens":[
@@ -13,9 +13,9 @@
     },
     {
       "chainId":1,
-      "address":"TPkxfFU1QqLhb7Y659QYWtfovEiioMcEaP",
-      "name":"ETTH",
-      "symbol":"ETTH",
+      "address":"TQW8xP8SD9JrcuNoofeJThkJbRSASYAXEa",
+      "name":"HT",
+      "symbol":"HT",
       "decimals":18,
       "logoURI":"https://coin.top/production/logo/usdj.png"
     }
@@ -23,6 +23,6 @@
   "version":{
     "major":1,
     "minor":0,
-    "patch":0
+    "patch":1
   }
 }
