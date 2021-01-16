@@ -1,0 +1,809 @@
+{
+   "name": "Token1", #List名称
+   "logoURI": "https://coin.top/production/logo/Token1.png", #List logo uri
+   "timestamp": 1610339529000, #以毫秒为单位的更新时间
+   "tokens": [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },[{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       {
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },[{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       {
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },[{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       {
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },[{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       {
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },[{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       {
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },[{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       {
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },[{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       {
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },[{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       {
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },[{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       {
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },[{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       [{
+           "chainId": 1, #ChainId,目前为1
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4", #Token地址
+           "name": "token1", #Token名称
+           "symbol": "t1", #Token符号缩写
+           "decimals": 12, #Token小数位数
+           "logoURI": "https://coin.top/production/logo/T1.png" #Token logo uri
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       },
+       {
+           "chainId": 1,
+           "address": "TGdRpaLLP7m572cDUMfEXxd77QQJ44L1rv",
+           "name": "token101",
+           "symbol": "t101",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T101.png"
+       }
+   ],
+   "version": { #版本信息
+       "major": 1, #主版本号
+       "minor": 0, #次版本号
+       "patch": 0  #补丁版本号
+   }
+}
