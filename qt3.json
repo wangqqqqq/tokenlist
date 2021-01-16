@@ -1,0 +1,28 @@
+{
+   "name": "Token2",
+   "logoURI": "https://coin.top/production/logo/Token2.png",
+   "timestamp": 1610339529000,
+   "tokens": [{
+           "chainId": 1,
+           "address": "TWiHudoUSYNMBdy58uKkjU2yrMNtmTYRx4",
+           "name": "token1",
+           "symbol": "t1",
+           "decimals": 12,
+           "logoURI": "https://coin.top/production/logo/T1.png"
+       },
+       {
+           "chainId": 1,
+           "address": "TAevohmAQva3mSpp7UL3ajp5V78X2fMY3B",
+           "name": "token2",
+           "symbol": "t2",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T2.png"
+       }
+       
+   ],
+   "version": {
+       "major": 1,
+       "minor": 2,
+       "patch": 0
+   }
+}
