@@ -797,7 +797,7 @@
        {
            "chainId": 1,
            "address": "TPRHiVhL4paNXBFuBZBvNBuKV2TtwehhuP",
-           "name": "token2",
+           "name": "token3",
            "symbol": "t2",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T100.png"
@@ -805,7 +805,7 @@
    ],
    "version": {
        "major": 1,
-       "minor": 1,
+       "minor": 2,
        "patch": 0
    }
 }
