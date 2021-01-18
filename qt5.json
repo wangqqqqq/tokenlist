@@ -104,7 +104,15 @@
 "decimals": 18,
 "name": "HuobiToken",
 "logoURI": "https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
-}
+},
+{
+           "chainId": 1,
+           "address": "TFnJH1U3jQrMkuTfGeWXwvyozLY8E2XZv6",
+           "name": "token1",
+           "symbol": "t1",
+           "decimals": 12,
+           "logoURI": "https://coin.top/production/logo/T1.png"
+       }
 ],
 "logoURI": "https://justswap.io/favicon.ico",
 "version": {
