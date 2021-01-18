@@ -1,0 +1,20 @@
+{
+"name": "My Default List",
+"tokens": [
+{
+"symbol": "HYPE",
+"address": "TASrsr1Qsz8eUSajiTxXSLo44uAFfvZVUG",
+"chainId": 1,
+"decimals": 6,
+"name": "HYPE Token",
+"logoURI": "https://coin.top/production/logo/HY-logo.png"
+}
+],
+"logoURI": "https://justswap.io/favicon.ico",
+"version": {
+"patch": 1,
+"major": 1,
+"minor": 0
+},
+"timestamp": 1610714711000
+}
