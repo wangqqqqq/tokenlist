@@ -801,12 +801,20 @@
            "symbol": "t100",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T100.png"
+       },
+ {
+           "chainId": 1,
+           "address": "TL3afLcNFiBzDUW5dCH9yL36eYihqF7fMQ",
+           "name": "token100",
+           "symbol": "t100",
+           "decimals": 6,
+           "logoURI": "https://coin.top/production/logo/T100.png"
        }
        
    ],
    "version": {
        "major": 1,
-       "minor": 0,
+       "minor": 1,
        "patch": 0
    }
 }
