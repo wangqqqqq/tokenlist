@@ -794,14 +794,6 @@
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T99.png"
        },
-       {
-           "chainId": 1,
-           "address": "TL3afLcNFiBzDUW5dCH9yL36eYihqF7fMQ",
-           "name": "token100",
-           "symbol": "t100",
-           "decimals": 6,
-           "logoURI": "https://coin.top/production/logo/T100.png"
-       },
  {
            "chainId": 1,
            "address": "TL3afLcNFiBzDUW5dCH9yL36eYihqF7fMQ",
