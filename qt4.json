@@ -11,24 +11,16 @@
            "logoURI": "https://coin.top/production/logo/T1.png"
        },
        {
-           "chainId": 1,
-           "address": "TC6nDkYuukX4LMP65r3DNgYZKNmqHMuk3U",
-           "name": "token2",
-           "symbol": "t2q",
-           "decimals": 6,
-           "logoURI": "https://coin.top/production/logo/T2.png"
-       },
-       {
-           "chainId": 1,
+           "chainId": 3,
            "address": "TUjv3rEbrDVfkqV9wg2Fku7RtjLkoMtPuE",
            "name": "token3",
-           "symbol": "t3q",
+           "symbol": "t3qs,
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T3.png"
        },
        {
            "chainId": 1,
-           "address": "THE4QLRk6djpaU3zfH6UCnqWepgkFXx8sn",
+           "address": "TV75jZpdmP2juMe1dRwGrwpV6AMU6mr1EU",
            "name": "token4",
            "symbol": "t4q",
            "decimals": 6,
