@@ -801,7 +801,15 @@
            "symbol": "t100",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T100.png"
-       }
+       },
+{
+chainId: 1,
+address: "TU5sB2HEuxVR3QLeJvRNYeDkDBuFhVyq7e",
+name: "TronToken26",
+symbol: "TronToken260",
+decimals: 6,
+logoURI: "https://coin.top/production/logo/usdj.png"
+}
        
    ],
    "version": {
