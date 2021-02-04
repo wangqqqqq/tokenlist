@@ -6,7 +6,7 @@
            "chainId": 1,
            "address": "TFnJH1U3jQrMkuTfGeWXwvyozLY8E2XZv6",
            "name": "token1",
-           "symbol": "t1",
+           "symbol": "t1q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T1.png"
        },
@@ -14,7 +14,7 @@
            "chainId": 1,
            "address": "TC6nDkYuukX4LMP65r3DNgYZKNmqHMuk3U",
            "name": "token2",
-           "symbol": "t2",
+           "symbol": "t2q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T2.png"
        },
@@ -22,7 +22,7 @@
            "chainId": 1,
            "address": "TUjv3rEbrDVfkqV9wg2Fku7RtjLkoMtPuE",
            "name": "token3",
-           "symbol": "t3",
+           "symbol": "t3q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T3.png"
        },
@@ -30,7 +30,7 @@
            "chainId": 1,
            "address": "THE4QLRk6djpaU3zfH6UCnqWepgkFXx8sn",
            "name": "token4",
-           "symbol": "t4",
+           "symbol": "t4q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T4.png"
        },
@@ -38,7 +38,7 @@
            "chainId": 1,
            "address": "TRVeWzQDrk9XgnyRnrmBjtgUfeuXKuUPRb",
            "name": "token5",
-           "symbol": "t5",
+           "symbol": "t5q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T5.png"
        },
@@ -46,7 +46,7 @@
            "chainId": 1,
            "address": "TBnCV9mK78ATco3xQNGQ7UFHseKSXykUsA",
            "name": "token6",
-           "symbol": "t6",
+           "symbol": "t6q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T6.png"
        },
@@ -54,7 +54,7 @@
            "chainId": 1,
            "address": "TDTu6gydZ5vf2Px2YkXtFswjrpY8Hxqf9h",
            "name": "token7",
-           "symbol": "t7",
+           "symbol": "t7q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T7.png"
        },
@@ -62,7 +62,7 @@
            "chainId": 1,
            "address": "TMs8age6LyYAy6KdkEpJK8GYNmkoVv9Wiw",
            "name": "token8",
-           "symbol": "t8",
+           "symbol": "t8q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T8.png"
        },
@@ -70,7 +70,7 @@
            "chainId": 1,
            "address": "TSqT1sqkxCE7USFhxMTS9RWfjPysFHhoVw",
            "name": "token9",
-           "symbol": "t9",
+           "symbol": "t9q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T9.png"
        },
@@ -78,7 +78,7 @@
            "chainId": 1,
            "address": "TQm8S1ZhgNkxnDHFnfihYs3iAT3HRe5CLY",
            "name": "token10",
-           "symbol": "t10",
+           "symbol": "t10q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T10.png"
        },
@@ -86,7 +86,7 @@
            "chainId": 1,
            "address": "TM6h4vQBvgU8BhBEscGLpug3ogESGfWy6c",
            "name": "token11",
-           "symbol": "t11",
+           "symbol": "t11q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T11.png"
        },
@@ -94,7 +94,7 @@
            "chainId": 1,
            "address": "TRJF3XVJQZ9zyDYKmBbDpZikcqVo3vadj9",
            "name": "token12",
-           "symbol": "t12",
+           "symbol": "t12q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T12.png"
        },
@@ -102,7 +102,7 @@
            "chainId": 1,
            "address": "TBvaEv7LYokGt8amGszPpBj7RtkBovdWaK",
            "name": "token13",
-           "symbol": "t13",
+           "symbol": "t13q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T13.png"
        },
@@ -110,7 +110,7 @@
            "chainId": 1,
            "address": "TR34tewhYndQ8Sjy4BixUUHApzThue8wRd",
            "name": "token14",
-           "symbol": "t14",
+           "symbol": "t14q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T14.png"
        },
@@ -118,7 +118,7 @@
            "chainId": 1,
            "address": "TLBDFggc5BA4hvkETgWxbzxA6FkssvJpVS",
            "name": "token15",
-           "symbol": "t15",
+           "symbol": "t15q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T15.png"
        },
@@ -126,7 +126,7 @@
            "chainId": 1,
            "address": "TAp34mBqoWhZ4bNF7JzDVZCrKAp8A6qMWD",
            "name": "token16",
-           "symbol": "t16",
+           "symbol": "t16q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T16.png"
        },
@@ -134,7 +134,7 @@
            "chainId": 1,
            "address": "TDoRTER23YsJQ4th3mtKx33bGCfJyqdg9P",
            "name": "token17",
-           "symbol": "t17",
+           "symbol": "t17q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T17.png"
        },
@@ -142,7 +142,7 @@
            "chainId": 1,
            "address": "TLHt2zam8p5VAKCriXJNqJ8Y8j1CqfZFNT",
            "name": "token18",
-           "symbol": "t18",
+           "symbol": "t18q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T18.png"
        },
@@ -150,7 +150,7 @@
            "chainId": 1,
            "address": "TYFNGCm2KYN9T9RcjnHWLvwCatN3oukc4f",
            "name": "token19",
-           "symbol": "t19",
+           "symbol": "t19q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T19.png"
        },
@@ -158,7 +158,7 @@
            "chainId": 1,
            "address": "TYqJNtpAmJMqh6REkMEuZM2hSYNAUAg57q",
            "name": "token20",
-           "symbol": "t20",
+           "symbol": "t20q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T20.png"
        },
@@ -166,7 +166,7 @@
            "chainId": 1,
            "address": "TGvS6B9zL4YaZPn9FJDPsyQquY6evKKVRc",
            "name": "token21",
-           "symbol": "t21",
+           "symbol": "t21q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T21.png"
        },
@@ -174,7 +174,7 @@
            "chainId": 1,
            "address": "TTt8KunoA8VrdwJZ8Ho94d5fuyfTgLibjk",
            "name": "token22",
-           "symbol": "t22",
+           "symbol": "t22q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T22.png"
        },
@@ -182,7 +182,7 @@
            "chainId": 1,
            "address": "TV2vdWnCqsof257jRwMP6za5mV3huNp9fL",
            "name": "token23",
-           "symbol": "t23",
+           "symbol": "t23q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T23.png"
        },
@@ -190,7 +190,7 @@
            "chainId": 1,
            "address": "TKhg3Z38mhdpcQjWkHNcAqfnZGVdoNS9Ds",
            "name": "token24",
-           "symbol": "t24",
+           "symbol": "t24q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T24.png"
        },
@@ -198,7 +198,7 @@
            "chainId": 1,
            "address": "TLKXqS4ckXLocxkPpPD9fxmT3exGU5swoP",
            "name": "token25",
-           "symbol": "t25",
+           "symbol": "t25q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T25.png"
        },
@@ -206,7 +206,7 @@
            "chainId": 1,
            "address": "TVD66KPwyVmcHgFGZRVyGgfABtUi9dx9XV",
            "name": "token26",
-           "symbol": "t26",
+           "symbol": "t26q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T26.png"
        },
@@ -214,7 +214,7 @@
            "chainId": 1,
            "address": "THbhBEc3hrvBXAxKM6oJk9tmNSmeNXfWUJ",
            "name": "token27",
-           "symbol": "t27",
+           "symbol": "t27q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T27.png"
        },
@@ -222,7 +222,7 @@
            "chainId": 1,
            "address": "TStAtjufUgaG8P35mo2FN9pxkzZFWB3JGo",
            "name": "token28",
-           "symbol": "t28",
+           "symbol": "t28q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T8.png"
        },
@@ -230,7 +230,7 @@
            "chainId": 1,
            "address": "TApoTdXMBBQwwoK3vx6RUc5hVhniDFdVwU",
            "name": "token29",
-           "symbol": "t29",
+           "symbol": "t29q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T29.png"
        },
@@ -238,7 +238,7 @@
            "chainId": 1,
            "address": "TKcV2Cz5eLgEA9vR9BB1L4MXbtEe8kFPyV",
            "name": "token30",
-           "symbol": "t30",
+           "symbol": "t30q",
            "decimals": 6,
            "logoURI": "https://coin.top/production/logo/T30.png"
        },
@@ -246,7 +246,7 @@
            "chainId": 1,
            "address": "TSEV2FBeM6pAAZbfumaSySqzV2GJUw9f42",
            "name": "token31",
-           "symbol": "t31",
+           "symbol": "t31q",
            "decimals": 12,
            "logoURI": "https://coin.top/production/logo/T31.png"
        },
